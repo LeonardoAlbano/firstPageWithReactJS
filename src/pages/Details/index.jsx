@@ -41,7 +41,20 @@ export function Details() {
 
           {/* Parágrafo principal com texto de exemplo */}
           <p>
-            {/* Conteúdo do parágrafo */}
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Mauris non lorem vel ex euismod egestas vitae interdum justo.
+              Donec sagittis volutpat ante quis tristique. Donec vel 
+              tincidunt quam. Maecenas risus nibh, sodales id lorem non, 
+              iaculis molestie dolor. Curabitur ac ultricies nibh. 
+              Aenean quis massa aliquet, tincidunt arcu eget, faucibus orci. 
+              Mauris imperdiet eget massa ut consectetur. Nulla laoreet, 
+              nisl sit amet tincidunt tempus, metus elit tempus augue, 
+              id pretium enim risus ac lacus. Curabitur tristique ante 
+              sit amet sapien efficitur fringilla. Mauris sagittis nisl sem. 
+              In ut ligula vehicula, gravida ligula eu, semper nisl. 
+              Nulla rutrum id urna et viverra. Duis vel risus dictum, 
+              lacinia velit sed, mollis dolor. Nam scelerisque id risus 
+              eget tincidunt.
           </p>
 
           {/* Renderizando o componente "Section" com o título "Links úteis" */}
